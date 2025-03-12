@@ -63,7 +63,6 @@ The project is organized into three main files:
 2. **DigitalRain.cpp** - Contains the implementation of the DigitalRain class
 3. **main.cpp** - Creates and runs the DigitalRain object
 
-<img src="https://raw.githubusercontent.com/DenisJ123/digital-rain-cpp/main/docs/assets/images/DigitalRainDev1.png" width="400" height="300">
 
 ## Implementation Details
 
