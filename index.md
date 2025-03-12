@@ -13,7 +13,7 @@ This project creates a Matrix-style "digital rain" effect in the terminal using 
 
 The animation runs in any standard terminal and creates cascading blue characters that fall from the top of the screen to the bottom. When a character reaches the bottom, it wraps around to the top again, creating a continuous rain effect.
 
-Assets/Rain.png
+<img src="https://raw.githubusercontent.com/G00405014/digital-rain-cpp/main/docs/assets/speed.gif" width="1908" height="556">
 
 ## Technical Components
 
