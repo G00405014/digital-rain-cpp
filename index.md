@@ -10,8 +10,6 @@ author: Emeka Adimora
 
 ![Digital Rain Animation](Assets/Rain.gif)
 
-Have you ever wanted to recreate that iconic cascading code from "The Matrix" right in your terminal? In this project, I've implemented the famous "digital rain" effect using modern C++ techniques. No need for complex graphics libraries or special hardware—this runs in any standard terminal while demonstrating clean, object-oriented programming principles.
-
 ## Project Overview
 
 The animation displays cascading blue characters that fall from the top of your terminal to the bottom, mimicking the iconic computer code visualization from the Matrix films. When characters reach the bottom, they wrap around to the top again, creating a mesmerizing continuous rain effect that can run indefinitely.
