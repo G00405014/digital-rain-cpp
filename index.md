@@ -7,7 +7,7 @@ categories: project
 
 # Digital Rain Animation: Bringing the Matrix to Your Terminal
 
-![Digital Rain Animation](https://raw.githubusercontent.com/G00405014/digital-rain-cpp/main/Assets/speed.gif)
+![Digital Rain Animation](Recording 2025-04-03 083156.gif)
 
 Have you ever wanted to recreate that iconic cascading code from "The Matrix" right in your terminal? In this project, I've implemented the famous "digital rain" effect using modern C++ techniques. No need for complex graphics libraries or special hardware—this runs in any standard terminal while demonstrating clean, object-oriented programming principles.
 
@@ -166,34 +166,3 @@ Press Ctrl+C to exit when you're done being mesmerized!
 [2] Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design Patterns: Elements of Reusable Object-Oriented Software. Addison-Wesley.
 
 [3] Standards Council of the IEEE Computer Society. (2017). ISO/IEC 14882:2017 Programming Language C++. International Organization for Standardization.
-
----
-
-## Comments
-
-### Share Your Thoughts
-
-**CodingNinja42** - *April 2, 2025*  
-Really cool project! Have you considered adding unicode characters to make it look even more like the original Matrix?
-
-**TerminalHacker** - *April 2, 2025*  
-Nice implementation! I tried this on my Linux box and it works great. One suggestion - you could add optional command line args for width and height so users can customize without recompiling.
-
-**CPlusPlusGuru** - *April 1, 2025*  
-Well-structured code! This is a great example of using modern C++ features for a fun project. Your use of enums and class design shows good OOP principles.
-
-### Add a Comment
-
-**Name:**  
-[                    ]
-
-**Email (not published):**  
-[                    ]
-
-**Comment:**  
-[                    ]
-[                    ]
-[                    ]
-[                    ]
-
-[Post Comment]
