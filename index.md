@@ -7,7 +7,7 @@ categories: project
 
 # Digital Rain Animation: Bringing the Matrix to Your Terminal
 
-![Digital Rain Animation](Recording 2025-04-03 083156.gif)
+![Digital Rain Animation](Assets/Rain.gif)
 
 Have you ever wanted to recreate that iconic cascading code from "The Matrix" right in your terminal? In this project, I've implemented the famous "digital rain" effect using modern C++ techniques. No need for complex graphics libraries or special hardware—this runs in any standard terminal while demonstrating clean, object-oriented programming principles.
 
